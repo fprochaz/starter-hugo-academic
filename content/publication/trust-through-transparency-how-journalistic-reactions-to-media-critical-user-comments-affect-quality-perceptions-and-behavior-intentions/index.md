@@ -4,9 +4,8 @@ title: Trust Through Transparency? How Journalistic Reactions to Media-Critical
 publication_types:
   - "2"
 authors:
-  - Prochazka
-  - Fabian;Obermaier
-  - Magdalena
+  - Fabian Prochazka
+  - Magdalena Obermaier
 doi: 10.1080/21670811.2021.2017316
 publication: Digital Journalism
 draft: false
